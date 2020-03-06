@@ -56,7 +56,7 @@ The application capture various class fields such as:
 * <a href="https://github.com/marvtdawson/react-springboot-todo">Spring Boot 5 & ReactJS 16 - ToDo Application</a>
 * Spring Boot 5 - Java Web Service with RESTful API
 * MVC Application using JSP & Servlets
-* MultiLingual Application using JSP & Servlets
+* <a href="https://github.com/marvtdawson/java-jstl-multi-lingual-app">Multi-Lingual Application using JSP & Servlets</a>
 * Build A Complete Database Web App with JDBC using JSP & Servlets
 * Spring REST CRUD Application
 * Android Java Button Counter App
